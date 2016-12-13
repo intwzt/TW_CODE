@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="exploded-war" name="Gradle : AjaxSpring.war (exploded)">
+      <output-path>$PROJECT_DIR$/build/libs/exploded/AjaxSpring.war</output-path>
+      <properties id="gradle-properties">
+        <options external-project-path="$PROJECT_DIR$">
+          <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+        </options>
+      </properties>
+      <root id="root">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/AjaxSpring.war/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="javaee-facet-resources" facet="AjaxSpring_main/web/Web Gradle : AjaxSpring.war" />
+        <element id="directory" name="WEB-INF">
+          <element id="directory" name="classes">
+            <element id="module-output" name="AjaxSpring_main" />
+            <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+          </element>
+          <element id="directory" name="lib">
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.2.RELEASE/99b68a8aca2ed67ad523e7341a90dd1c90fd669e/spring-webmvc-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.3/5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8/jackson-databind-2.6.3.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.3/142ce64dcd709a4b5f6e7d71305a31d3893d077/jackson-core-2.6.3.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.3/435efa54afd2853995546802280e8cd2d2770d00/jackson-annotations-2.6.3.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.12/8b290aae44213e2f6da00c07af59b0d442068f4d/jackson-mapper-asl-1.9.12.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.2.RELEASE/d60bd9daf7d819c72e6a27fad16c4683b2e7df11/spring-jdbc-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-dbcp/commons-dbcp/1.4/30be73c965cc990b153a100aaaaafcf239f82d39/commons-dbcp-1.4.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.6/380ef5226de2c85ff3b38cbfefeea881c5fce09d/mysql-connector-java-5.1.6.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/taglibs/standard/1.1.2/a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7/standard-1.1.2.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.2.RELEASE/caef216e995f565dd4ab165ec5918ff44487615d/spring-aop-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.2.RELEASE/9e87f48f65a33a017f2dd027911947a28be29f93/spring-beans-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.2.RELEASE/e52782b824e097c3b1586b497fc6be0e95020770/spring-context-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/fd2f3cf45d3c84f293cb7ee3ab7d24c979495552/spring-core-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.2.RELEASE/7676acd4dde9d186b7f882edce3131dc62dcb590/spring-expression-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.2.RELEASE/562b3b775b6e8e7113b5d23b21946f939658bd19/spring-web-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.12/ecfc6f73a841c4c3c653b59651a3f9d5f1286469/jackson-core-asl-1.9.12.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.2.RELEASE/dd75075485ddebb1f912102527ff91c4bfbae903/spring-tx-4.3.2.RELEASE.jar" />
+            <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.5.4/75b6e20c596ed2945a259cea26d7fadd298398e6/commons-pool-1.5.4.jar" />
+          </element>
+        </element>
+      </root>
+    </artifact>
+    <artifact type="war" name="Gradle : AjaxSpring.war">
+      <output-path>$PROJECT_DIR$/build/libs</output-path>
+      <properties id="gradle-properties">
+        <options external-project-path="$PROJECT_DIR$" />
+      </properties>
+      <root id="archive" name="AjaxSpring.war">
+        <element id="artifact" artifact-name="Gradle : AjaxSpring.war (exploded)" />
+      </root>
+    </artifact>
+  </component>
+  <component name="CompilerConfiguration">
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="!?*.class" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.java" />
+      <entry name="!?*.groovy" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel target="1.8">
+      <module name="AjaxSpring_main" target="1.8" />
+      <module name="AjaxSpring_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-3.2.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+  <component name="GradleUISettings">
+    <setting name="root" />
+  </component>
+  <component name="GradleUISettings2">
+    <setting name="root" />
+  </component>
+  <component name="IdProvider" IDEtalkID="11DA1DB66DD62DDA1ED602B7079FE97C" />
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" />
+    <option name="OPTION_SCOPE" value="protected" />
+    <option name="OPTION_HIERARCHY" value="true" />
+    <option name="OPTION_NAVIGATOR" value="true" />
+    <option name="OPTION_INDEX" value="true" />
+    <option name="OPTION_SEPARATE_INDEX" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
+    <option name="OPTION_DEPRECATED_LIST" value="true" />
+    <option name="OTHER_OPTIONS" value="" />
+    <option name="HEAP_SIZE" />
+    <option name="LOCALE" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AjaxSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/AjaxSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AjaxSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AjaxSpring_main.iml" group="AjaxSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AjaxSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AjaxSpring_test.iml" group="AjaxSpring" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="libraryTable">
+    <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.6.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.3/435efa54afd2853995546802280e8cd2d2770d00/jackson-annotations-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.3/e92ea2d514bf1133e8c5b6ec9dfd548f7534ca62/jackson-annotations-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.6.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.3/142ce64dcd709a4b5f6e7d71305a31d3893d077/jackson-core-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.3/725bd4a1edfbf519b03ea21967f7fc5270140d3e/jackson-core-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.6.3">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.3/5c4fcae53dd82e2c549b8322d78c6ff47c94c8a8/jackson-databind-2.6.3.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.3/e50e2cdcbbfd50346a192b18df3a05cbb0119176/jackson-databind-2.6.3-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: commons-dbcp:commons-dbcp:1.4">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-dbcp/commons-dbcp/1.4/30be73c965cc990b153a100aaaaafcf239f82d39/commons-dbcp-1.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-dbcp/commons-dbcp/1.4/9b076ff231434d5403be6599a1347019b12c0def/commons-dbcp-1.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: commons-logging:commons-logging:1.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: commons-pool:commons-pool:1.5.4">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.5.4/75b6e20c596ed2945a259cea26d7fadd298398e6/commons-pool-1.5.4.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.5.4/3e226507788e09f02eef641e868624fb823af6e6/commons-pool-1.5.4-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: javax.servlet:javax.servlet-api:3.1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: javax.websocket:javax.websocket-api:1.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/fc843b649d4a1dcb0497669d262befa3918c7ba8/javax.websocket-api-1.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/107b0fdc7ca320b54dc1393e01585be5883ff348/javax.websocket-api-1.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: log4j:log4j:1.2.17">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/677abe279b68c5e7490d6d50c6951376238d7d3e/log4j-1.2.17-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: mysql:mysql-connector-java:5.1.6">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.6/380ef5226de2c85ff3b38cbfefeea881c5fce09d/mysql-connector-java-5.1.6.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Gradle: org.codehaus.jackson:jackson-core-asl:1.9.12">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.12/ecfc6f73a841c4c3c653b59651a3f9d5f1286469/jackson-core-asl-1.9.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.12/ed7928072c458d8576c969cc491af707151492fb/jackson-core-asl-1.9.12-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.9.12">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.12/8b290aae44213e2f6da00c07af59b0d442068f4d/jackson-mapper-asl-1.9.12.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.12/446f3d18401f02ac6741ff980d1a7566786936c/jackson-mapper-asl-1.9.12-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-aop:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.2.RELEASE/caef216e995f565dd4ab165ec5918ff44487615d/spring-aop-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.3.2.RELEASE/36facb73244b336b0c12a27454b4ff3fed30eebd/spring-aop-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-beans:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.2.RELEASE/9e87f48f65a33a017f2dd027911947a28be29f93/spring-beans-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.2.RELEASE/72acec93b901c2f88613fec3660e0311c3d25d3/spring-beans-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-context:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.2.RELEASE/e52782b824e097c3b1586b497fc6be0e95020770/spring-context-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.2.RELEASE/aed414800c159e0a45cb0af43c2a8c22cab8faac/spring-context-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-core:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/fd2f3cf45d3c84f293cb7ee3ab7d24c979495552/spring-core-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/4d695ffe01b7f23d66dc8d587f78212fecc70614/spring-core-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-expression:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.2.RELEASE/7676acd4dde9d186b7f882edce3131dc62dcb590/spring-expression-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.3.2.RELEASE/179fbc6fc078a00c0fe0f7e88691022028fd88e7/spring-expression-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-jdbc:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.2.RELEASE/d60bd9daf7d819c72e6a27fad16c4683b2e7df11/spring-jdbc-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.3.2.RELEASE/a8943a4ba041e29ddf9b313ba8f1f5f8aab768a/spring-jdbc-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-tx:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.2.RELEASE/dd75075485ddebb1f912102527ff91c4bfbae903/spring-tx-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.2.RELEASE/7ccda015cdb123f208807805f330809b1a75d3fb/spring-tx-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-web:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.2.RELEASE/562b3b775b6e8e7113b5d23b21946f939658bd19/spring-web-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.2.RELEASE/f0e4e72a7af722a285dc46cff641f058a46071db/spring-web-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: org.springframework:spring-webmvc:4.3.2.RELEASE">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.2.RELEASE/99b68a8aca2ed67ad523e7341a90dd1c90fd669e/spring-webmvc-4.3.2.RELEASE.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.2.RELEASE/aca3ae146872101026f1b43463ab7f12a6893358/spring-webmvc-4.3.2.RELEASE-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Gradle: taglibs:standard:1.1.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/taglibs/standard/1.1.2/a17e8a4d9a1f7fcc5eed606721c9ed6b7f18acf7/standard-1.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/taglibs/standard/1.1.2/df8e0d90d896837d12eebaf7abf7bcf07ad0f4e4/standard-1.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+      <state key="Copyright.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+        </UIState>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl>
+              <option name="proportions">
+                <list>
+                  <option value="0.2" />
+                </list>
+              </option>
+            </SplitterProportionsDataImpl>
+          </splitter-proportions>
+          <last-edited>1.6</last-edited>
+        </UIState>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <UIState>
+          <splitter-proportions>
+            <SplitterProportionsDataImpl />
+          </splitter-proportions>
+          <settings />
+        </UIState>
+      </state>
+    </states>
+  </component>
+</project>
